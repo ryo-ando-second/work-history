@@ -32,7 +32,7 @@ Docker
 ## 得意分野（発揮したバリュー）
 
 ## 主な業務経歴
-### サブスクストアBtoC向けECサイトの保守運用<br>【ruby/Ruby on Rails/HTML/css/JavaScript/React/MySQL】(2022年9月〜)<br>
+### サブスクストアBtoC向けECサイトの保守運用<br>【ruby/Ruby on Rails/HTML/slim/css/JavaScript/React/MySQL】(2022年9月〜)<br>
 【案件概要】BtoC向けECサイトのバグ修正及び新規機能の追加を担当。<br>
 【担当業務】言語はruby、フレームワークは/Ruby on Railsを使用し、フロント周りの調整、DB周りの改修、改修担当箇所の単体テスト等を担当。
 - メール一括送信の画面に遷移する際、クエリパラメータをpostで送信するように修正。
@@ -47,7 +47,7 @@ Docker
 
 【発揮したバリュー】画像処理アルゴリズム等は全く未経験であったが、各種書籍や、当時画像処理系の記事が連載されていた「C Magazine」のバックナンバーを購入する等して対応。(C Magazineの連載に掲載されていたアルゴリズムにはいくつか誤りがあったが、自分でそれを発見して修正対応するなど、学習能力の高さを発揮)
 
-### 企業向けアンケート調査機能の開発 瑕疵対応<br>【ruby/Ruby on Rails/HTML/css/JavaScript/MySQL】(2020年8月〜2021年3月)
+### 企業向けアンケート調査機能の開発 瑕疵対応<br>【ruby/Ruby on Rails/HTML/slim/css/JavaScript/MySQL】(2020年8月〜2021年3月)
 【案件概要】既存システムの瑕疵対応及び保守運用<br>
 【担当業務】言語はruby、フレームワークは/Ruby on Railsを使用し、フロント周りの調整、DB周りの改修、改修担当箇所の単体テスト等を担当
 - 
