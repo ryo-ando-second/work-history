@@ -14,9 +14,9 @@
 |使用言語<br>ライブラリ|サーバー<br>ＯＳ・ＤＢ|FW・MW<br>ツールなど|
 |----|----|----|
 |Ruby|Windows|GitHub|
-|HTML|Mac|Ruby on Rails|
-|CSS|MySQL|Docker|
-|JavaScript|PostgreSQL||
+|HTML|Mac|Bitbucket|
+|CSS|MySQL|Ruby on Rails|
+|JavaScript|PostgreSQL|Docker|
 |React||
 
 ## 主な業務経歴
