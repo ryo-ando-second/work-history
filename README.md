@@ -11,13 +11,12 @@
 今後も知識と技術を磨き、主にバックエンドエンジニアとして活躍したいと考えております。
 
 ## スキル
-|使用言語<br>ライブラリ|サーバー<br>ＯＳ・ＤＢ|FW・MW<br>ツールなど|
-|----|----|----|
-|Ruby|Windows|GitHub|
-|HTML|Mac|Bitbucket|
-|CSS|MySQL|Ruby on Rails|
-|JavaScript|PostgreSQL|Docker|
-|React||
+|使用言語|フレームワーク<br>ライブラリ|サーバー<br>ＯＳ・ＤＢ|ツール等|
+|----|----|----|----|
+|Ruby|Ruby on Rails|Windows|GitHub|
+|HTML|React|Mac|Bitbucket|
+|CSS||MySQL|Docker|
+|JavaScript||PostgreSQL||
 
 ## 主な業務経歴
 
