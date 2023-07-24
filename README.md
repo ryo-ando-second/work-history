@@ -16,7 +16,7 @@
 |----|----|----|----|
 |Ruby|Ruby on Rails|Windows|GitHub|
 |HTML|React|Mac|Bitbucket|
-|CSS||MySQL|Docker|
+|CSS|jQuery|MySQL|Docker|
 |JavaScript||PostgreSQL||
 
 ## 主な業務経歴
