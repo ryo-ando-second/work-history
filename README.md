@@ -5,28 +5,28 @@
 |氏名|安藤 涼（アンドウ リョウ）|
 |性別|男|
 |年齢|33歳|
-|近くの駅|京王線　　　   初台駅（東京都渋谷区）<br>都営大江戸線   西新宿五丁目駅（東京都新宿区）|
+|近くの駅|京王線　　　　初台駅（東京都渋谷区）<br>都営大江戸線　西新宿五丁目駅（東京都新宿区）|
 ## 概要
 大学卒業後、他業種にて働いていましたが、「創意工夫してサービスを創り出す仕事がしたい」と考え、プログラミング学習を開始し、2020年8月から開発に参画しています。<br/>
 主に、RubyとをRuby on Rails用いたシステム開発を行っております。<br/>																																																													
 今後も知識と技術を磨き、主にバックエンドエンジニアとして活躍したいと考えております。
 
 ## スキル
-|使用言語|フレームワーク<br>ライブラリ|サーバー<br>ＯＳ・ＤＢ|ツール等|
-|----|----|----|----|
-|Ruby|Ruby on Rails|Windows|GitHub|
-|HTML|React|Mac|Bitbucket|
-|CSS|jQuery|MySQL|Docker|
-|JavaScript||PostgreSQL||
+|使用言語|フレームワーク<br>ライブラリ|サーバー<br>ＯＳ・ＤＢ|SaaS|PaaS|その他ツール|
+|----|----|----|----|----|----|
+|Ruby|Ruby on Rails|Windows|GitHub|CircleCI|Docker|
+|HTML|React|Mac|Bitbucket|||
+|CSS|jQuery|MySQL||||
+|JavaScript|Stimulus|PostgreSQL||||
 
 ## 主な業務経歴
 
-### ●●●サイトの新規開発<br>【ruby/Ruby on Rails/HTML/slim/css/JavaScript/React/MySQL】(2023年7月〜)
+### 飼育牛管理サイトの新規開発<br>【ruby/Ruby on Rails/HTML/slim/css/JavaScript/React/MySQL】(2023年7月〜)
 【案件概要】BtoC向けECサイトのバグ修正及び新規機能の追加<br>
 【担当業務】言語はruby、フレームワークは/Ruby on Railsを使用し、フロント周りの調整、DB周りの改修、改修担当箇所の単体テスト等を担当。
 
--
--
+- Stimulusを使用した
+- Turbo Streamを使用した
 -
 -
 
